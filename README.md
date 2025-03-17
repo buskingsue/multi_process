@@ -12,5 +12,7 @@
 ### otx find
 ## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx1.png"> 
 ## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx3.png"> 
+# sudo find / -type d -name ".otx"
+## 가상환경 폴더 .otx
 
 
