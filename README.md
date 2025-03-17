@@ -4,7 +4,7 @@
 ## git clone https://github.com/openvinotoolkit/training_extensions.git
 ## cd training_extensions
 ##
-# -가상 환경 설정 Set up a virtual environment.
+# - 가상 환경 설정 - Set up a virtual environment.
 ## python -m venv .otx #가상환경 만들기 
 ## source .otx/bin/activate #가상환경에 접속하기
 ## pip install otx[base]
