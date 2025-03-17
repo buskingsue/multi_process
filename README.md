@@ -10,5 +10,7 @@
 ## pip install otx[base]
 ##
 ### otx find
-## <img width = "40%" src= ""> 
+## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx1.png"> 
+## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx2.png"> 
+
 
