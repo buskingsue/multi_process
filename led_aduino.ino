@@ -1,5 +1,5 @@
-// sudo chmod 777 /dev/ttyACM0
-// ls -al /dev/ttyACM0
+// sudo chmod 777 /dev/ttyACM0 //usb 권한 설정
+// ls -al /dev/ttyACM0 //usb 권한 확인
 const int led1 = 2; // 1초마다 깜빡이는 LED
 const int led2 = 3; // 0.5초마다 깜빡이는 LED
 const int led3 = 4; // 0.2초마다 깜빡이는 LED
