@@ -4,9 +4,11 @@
 ## git clone https://github.com/openvinotoolkit/training_extensions.git
 ## cd training_extensions
 ##
-# -가상 환경 설정Set up a virtual environment.
+# -가상 환경 설정 Set up a virtual environment.
 ## python -m venv .otx
 ## source .otx/bin/activate
 ## pip install otx[base]
 ##
 ### otx find
+## <img width = "40%" src= ""> 
+
