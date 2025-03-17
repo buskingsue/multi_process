@@ -10,6 +10,8 @@
 ## pip install otx[base]
 ##
 ### otx find
+## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx5.png"> 
+
 ## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx1.png"> 
 ## <img width = "40%" src= "https://github.com/buskingsue/multi_process/blob/master/otx3.png"> 
 # sudo find / -type d -name ".otx"
