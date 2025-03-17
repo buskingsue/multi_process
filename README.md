@@ -1,4 +1,7 @@
 # multi_processing 다중처리
+## multiprocess.ipynb 파일
+##
+## aduino 파일 .ino c++ 언어
 ##
 # openvino training extensions 오픈비노 학습 확장 
 ## git clone https://github.com/openvinotoolkit/training_extensions.git
