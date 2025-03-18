@@ -1,3 +1,4 @@
+# ====================otx benchmark=============
 /home/kds/training_extensions/otx-workspace/20250318_015512
 otx benchmark \
     --work_dir otx-workspace \
@@ -5,7 +6,7 @@ otx benchmark \
     --engine.device cpu
 
 
-# ===================학습 명령===============================
+# ===================otx training 학습 명령============================
 ## otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/tv_mobilenet_v3_small.yaml --data_root ./flower_photos --max_epochs 10
 
 # ====================================================
