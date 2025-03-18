@@ -5,22 +5,22 @@ otx benchmark \
     --engine.device cpu
 
 
-=======학습 명령==============
-otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/tv_mobilenet_v3_small.yaml --data_root ./flower_photos --max_epochs 10
+# ===================학습 명령===============================
+## otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/tv_mobilenet_v3_small.yaml --data_root ./flower_photos --max_epochs 10
 
-====================================================
+# ====================================================
 
-otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/deit_tiny.yaml --data_root ./flower_photos --max_epochs 10
+## otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/deit_tiny.yaml --data_root ./flower_photos --max_epochs 10
 
-=========================================================
+# =========================================================
 
-otx train --config /home/kds/training_extensions/src/otx/recipe/classification/h_label_cls/mobilenet_v3_large.yaml --data_root ./flower_photos --max_epochs 10 
+## otx train --config /home/kds/training_extensions/src/otx/recipe/classification/h_label_cls/mobilenet_v3_large.yaml --data_root ./flower_photos --max_epochs 10 
 
-===========================================================
+# ===========================================================
 
-otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/deit_tiny.yaml --data_root ./flower_photos --max_epochs 10
+## otx train --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/deit_tiny.yaml --data_root ./flower_photos --max_epochs 10
 
-===================================================================
+# ===================================================================
 echo "====== OTX Benchmark Results ======"
 echo "Accuracy:"
 otx test --work_dir otx-workspace --checkpoint otx-workspace/latest/optimized_model.xml --engine.device cpu | grep "Top-1 Accuracy"
