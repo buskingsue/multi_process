@@ -1,3 +1,4 @@
+## iotdemo-motion-detector -l resources/conveyor.mp4 -s ./resources/bottlecap
 # ============OTX EXPORT=====================
 ## otx export --work_dir ./20250318_015512/ --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/tv_mobilenet_v3_small.yaml --checkpoint 20250318_015512/best_checkpoint.ckpt --data_root ../flower_photos/
 # ====================otx benchmark=============
