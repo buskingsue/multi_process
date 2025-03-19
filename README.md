@@ -1,7 +1,7 @@
 # multi_processing 다중처리
 ## multiprocess.ipynb 파일
 ##
-## aduino 파일 led_aduino.ino
+## aduino 파일 led_aduino.ino, voice_to_led.ino
 ##
 # otx.md파일에 otx 명령어 training, export, benchmark 추론 inference
 ##
