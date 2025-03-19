@@ -3,6 +3,8 @@
 ##
 ## aduino 파일 led_aduino.ino
 ##
+# otx.md파일에 otx 명령어
+##
 # openvino training extensions 오픈비노 학습 확장 
 ## git clone https://github.com/openvinotoolkit/training_extensions.git
 ## cd training_extensions
