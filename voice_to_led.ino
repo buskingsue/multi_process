@@ -1,3 +1,5 @@
+// sudo chmod 777 /dev/ttyACM0 //usb 권한 설정
+// ls -al /dev/ttyACM0 //usb 권한 확인
 //pkill -f arduino 아두이노 프로세스 종료
 #include <SoftwareSerial.h>  // 소프트웨어 시리얼 라이브러리 포함
 
