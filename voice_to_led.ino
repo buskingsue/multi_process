@@ -1,3 +1,4 @@
+//pkill -f arduino 아두이노 프로세스 종료
 #include <SoftwareSerial.h>  // 소프트웨어 시리얼 라이브러리 포함
 
 #define LED1_PIN 13  // 13번 핀 LED
