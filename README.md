@@ -2,6 +2,8 @@
 ## multiprocess.ipynb 파일
 ##
 ## aduino 파일 led_aduino.ino, voice_to_led.ino 음성 인식 led 제어
+## pkill -f arduino 아두이노 프로세스 종료
+##
 ## 휴대폰 앱 Arduino Bluetooth Control
 ##
 # otx.md파일에 otx 명령어 training, export, benchmark 추론 inference
