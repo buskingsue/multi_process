@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arduino
+Comment=arduino IDE
+Exec=/home/kds/Downloads/arduino.AppImage
+Icon=/home/kds/Downloads/ardu.png
+Type=Application
+Terminal=false
+
