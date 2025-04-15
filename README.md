@@ -1,6 +1,9 @@
 # multi_processing 다중처리
 ## multiprocess.ipynb 파일
 ##
+## 홀수 짝수 판별기
+## odd_even.c
+##
 ## aduino 파일 led_aduino.ino, voice_to_led.ino 음성 인식 led 제어
 ## pkill -f arduino 아두이노 프로세스 종료
 ##
