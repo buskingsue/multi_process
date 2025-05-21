@@ -1,6 +1,9 @@
 # multi_processing 다중처리
 ## multiprocess.ipynb 파일
 ##
+## multitread.ipynb 파일
+## 패키지 설치 !pip install pytubefix
+##
 ## 홀수 짝수 판별기
 ## odd_even.c
 ##
